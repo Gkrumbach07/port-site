@@ -16,15 +16,15 @@
   },
   "license": "0BSD",
   "dependencies": {
+    "@material-ui/core": "^4.11.2",
     "autoprefixer": "^9.8.6",
-    "bootstrap": "^4.5.3",
+    "axios": "^0.21.1",
     "gatsby": "^2.26.1",
     "gatsby-plugin-manifest": "^2.9.1",
     "gatsby-plugin-react-helmet": "^3.7.0",
     "mapbox-gl": "^2.0.1",
     "postcss": "^7.0.35",
     "react": "^16.14.0",
-    "react-bootstrap": "^1.4.0",
     "react-dom": "^16.14.0",
     "react-helmet": "^6.1.0"
   },
