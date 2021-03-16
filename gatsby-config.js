@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     title: "Portfolio Site",
   },
+  pathPrefix: "/port-site",
   plugins: [
     {
       resolve: "gatsby-plugin-manifest",
