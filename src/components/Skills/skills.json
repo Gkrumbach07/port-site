@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Languages",
+    "values": ["Python", "Java", "C", "C++", "C#", "JavaScript"]
+  },
+  {
+    "title": "Libraries",
+    "values": ["Pandas", "Numpy", "scikit-learn" ]
+  },
+  {
+    "title": "Web",
+    "values": ["HTML", "CSS",  "React", "Gatsby", "Flask", "GraphQL", "SQL"]
+  },
+  {
+    "title": "Software",
+    "values": []
+  }
+]
